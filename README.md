@@ -1,4 +1,4 @@
-# Challenge-1
+# Challenge 1: AI Security and SensitiveData Protection
 Goal: Build a secure Gemini chat app that answers user questions and has access to Google Search.
 Do this in a Jupyter notebook or by creating a simple Python app.
 

@@ -44,4 +44,14 @@ Requirements:
 - Deploy your app to Cloud Run
 
 # Challenge 5
-Note: Still need to go back to grab screenshots
+Goal: Demonstrate your ability to build a complex Generative AI Solution using the Gemini API
+
+Requirements:
+- Model Armor for prompt validation and response filtering
+- Sensitive Data Protection
+- Gemini Safety Filters
+- Logging
+- Document parsing with Gemini
+- BigQuery for application storage
+- A Web UI (Streamlit, Flutter, or HTML)
+- Deployed to Cloud Run
